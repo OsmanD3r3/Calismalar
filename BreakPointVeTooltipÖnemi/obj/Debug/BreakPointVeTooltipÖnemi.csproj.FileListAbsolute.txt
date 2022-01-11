@@ -1,0 +1,6 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakPointVeTooltipÖnemi\bin\Debug\BreakPointVeTooltipÖnemi.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakPointVeTooltipÖnemi\bin\Debug\BreakPointVeTooltipÖnemi.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakPointVeTooltipÖnemi\bin\Debug\BreakPointVeTooltipÖnemi.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakPointVeTooltipÖnemi\obj\Debug\BreakPointVeTooltipÖnemi.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakPointVeTooltipÖnemi\obj\Debug\BreakPointVeTooltipÖnemi.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakPointVeTooltipÖnemi\obj\Debug\BreakPointVeTooltipÖnemi.pdb

@@ -1,0 +1,6 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\AtamaOperatörü\bin\Debug\AtamaOperatörü.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\AtamaOperatörü\bin\Debug\AtamaOperatörü.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\AtamaOperatörü\bin\Debug\AtamaOperatörü.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\AtamaOperatörü\obj\Debug\AtamaOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\AtamaOperatörü\obj\Debug\AtamaOperatörü.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\AtamaOperatörü\obj\Debug\AtamaOperatörü.pdb

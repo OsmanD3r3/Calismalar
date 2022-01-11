@@ -1,0 +1,7 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\bin\Debug\BreakVeContinue Anahtar Kelimeleri.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\bin\Debug\BreakVeContinue Anahtar Kelimeleri.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\bin\Debug\BreakVeContinue Anahtar Kelimeleri.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\obj\Debug\BreakVeContinue Anahtar Kelimeleri.csproj.AssemblyReference.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\obj\Debug\BreakVeContinue Anahtar Kelimeleri.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\obj\Debug\BreakVeContinue Anahtar Kelimeleri.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BreakVeContinue Anahtar Kelimeleri\obj\Debug\BreakVeContinue Anahtar Kelimeleri.pdb

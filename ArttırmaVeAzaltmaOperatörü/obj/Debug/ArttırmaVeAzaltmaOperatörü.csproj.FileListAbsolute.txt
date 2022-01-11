@@ -1,0 +1,7 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\bin\Debug\ArttırmaVeAzaltmaOperatörü.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\bin\Debug\ArttırmaVeAzaltmaOperatörü.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\bin\Debug\ArttırmaVeAzaltmaOperatörü.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\obj\Debug\ArttırmaVeAzaltmaOperatörü.csproj.AssemblyReference.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\obj\Debug\ArttırmaVeAzaltmaOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\obj\Debug\ArttırmaVeAzaltmaOperatörü.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ArttırmaVeAzaltmaOperatörü\obj\Debug\ArttırmaVeAzaltmaOperatörü.pdb

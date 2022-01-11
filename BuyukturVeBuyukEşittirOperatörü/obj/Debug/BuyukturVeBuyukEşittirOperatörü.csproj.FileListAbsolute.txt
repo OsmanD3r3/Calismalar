@@ -1,0 +1,6 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BuyukturVeBuyukEşittirOperatörü\bin\Debug\BuyukturVeBuyukEşittirOperatörü.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BuyukturVeBuyukEşittirOperatörü\bin\Debug\BuyukturVeBuyukEşittirOperatörü.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BuyukturVeBuyukEşittirOperatörü\bin\Debug\BuyukturVeBuyukEşittirOperatörü.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BuyukturVeBuyukEşittirOperatörü\obj\Debug\BuyukturVeBuyukEşittirOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BuyukturVeBuyukEşittirOperatörü\obj\Debug\BuyukturVeBuyukEşittirOperatörü.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\BuyukturVeBuyukEşittirOperatörü\obj\Debug\BuyukturVeBuyukEşittirOperatörü.pdb

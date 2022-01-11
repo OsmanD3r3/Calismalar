@@ -1,0 +1,7 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\bin\Debug\charProjesi.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\bin\Debug\charProjesi.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\bin\Debug\charProjesi.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\obj\Debug\charProjesi.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\obj\Debug\charProjesi.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\obj\Debug\charProjesi.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\charProjesi\obj\Debug\charProjesi.csproj.AssemblyReference.cache

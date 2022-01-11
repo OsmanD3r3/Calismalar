@@ -1,0 +1,7 @@
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\bin\Debug\ByteProjesi.exe.config
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\bin\Debug\ByteProjesi.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\bin\Debug\ByteProjesi.pdb
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.csproj.AssemblyReference.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.exe
+C:\Users\teknosa\OneDrive\Masaüstü\Gelişim\Gelişim\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.pdb
